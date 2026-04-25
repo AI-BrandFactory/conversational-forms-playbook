@@ -1,0 +1,26 @@
+{
+  "slug": "conversational-forms-playbook",
+  "title": "The Conversational Forms Playbook",
+  "fileLabel": "Conversational Forms Playbook",
+  "hook": "Static multi-field forms convert at 12 to 18 percent. One-question-at-a-time conversational forms convert at 30 to 60 percent on the same traffic. The difference is not UI polish; it is applied behavioral psychology. Fogg's B=MAP model, the Zeigarnik effect, cognitive load theory, and the 4 engagement patterns that pioneers like Typeform proved. Plus the ethical line between a nudge that helps the user and a dark pattern that gets you sued.",
+  "benefits": [
+    "The 3 psychology principles that make conversational forms work: Fogg's B=MAP behavior model, cognitive load reduction, and the Zeigarnik effect. With the formula, the research, and how each maps to a form design decision.",
+    "The 4 engagement patterns to install: one question at a time (the Typeform pattern), progressive disclosure, Zeigarnik-driven progress indicators, and conversational language. With side-by-side technical vs conversational copy examples.",
+    "The 4 digital nudge categories that lift conversion: social proof, gamification, micro-copy prompts, celebration and feedback. With specific copy examples for each.",
+    "The ethical line: when a nudge is a nudge and when it is a dark pattern (Wells Fargo, Facebook, Vocal Image subscription-trap examples). How to stay on the right side of the FTC and the user.",
+    "The implementation checklist: 20 concrete items to audit on any conversational form you ship, grouped by principle.",
+    "The 8 failures that break conversational forms in production, with the specific fix for each."
+  ],
+  "squeezeBullets": [
+    "3 psychology principles behind conversational forms: Fogg's B=MAP behavior model, cognitive load, Zeigarnik effect",
+    "4 engagement patterns to install: one question at a time, progressive disclosure, progress indicators, conversational copy",
+    "4 digital nudge categories that lift conversion: social proof, gamification, micro-copy prompts, celebration"
+  ],
+  "description": "Typeform broke form design in 2014 by proving that one question at a time converts dramatically better than one page with 20 fields. A decade later the research is settled: conversational forms beat static forms 2 to 4 times on comparable traffic across lead generation, onboarding, application forms, and checkout flows.\n\nBut the advantage only shows up if the form is built on the underlying psychology. A shallow copy of the one-question-per-screen pattern without the cognitive, motivational, and emotional architecture underneath it converts no better than a static form. This playbook is the architecture: the three psychology principles (Fogg's B=MAP, cognitive load reduction, Zeigarnik effect), the four engagement patterns that activate them, the four digital nudge categories that amplify conversion, and the ethical line that separates a nudge from a dark pattern.\n\nFive parts:\n\nPart 1, Why Conversational Forms Actually Convert (the research, the numbers, the mechanism).\n\nPart 2, The 3 Psychology Principles That Drive the Design.\n\nPart 3, The 4 Engagement Patterns to Install.\n\nPart 4, Digital Nudges and the Ethical Boundary.\n\nPart 5, The Implementation Checklist and 8 Common Failures.\n\nIncluded as a printable PDF and a duplicatable Notion template.",
+  "emailSubject": "Your Conversational Forms Playbook is ready",
+  "githubUrl": "https://github.com/AI-BrandFactory/conversational-forms-playbook",
+  "notionUrl": "https://massiveimpact.notion.site/The-Conversational-Forms-Playbook-34cfb27e6634814d81e1d93955cebc3a",
+  "notionIcon": "💬",
+  "isPublished": true,
+  "githubRepo": "conversational-forms-playbook"
+}
